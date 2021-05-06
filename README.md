@@ -1,6 +1,6 @@
-# -Company-Visualxr
-It is a Web-based tool which helps Store/Restaurants to audit the branches with less hastle and in a secure manner . 
-In this,<b> Company-Visualxr</b> Company-Visualxr project i have developed a software which is helpful to generate & download the forms for audit with email & store doc features.
+<b> -Company-Visualxr</b>
+<b>It is a Web-based tool which helps Store/Restaurants to audit the branches with less hastle and in a secure manner . 
+In this</b>,<b> Company-Visualxr</b> Company-Visualxr project i have developed a software which is helpful to generate & download the forms for audit with email & store doc features.
 This project contains 4 modules 
 <b>Admin</b>
 <b>Agents</b>
