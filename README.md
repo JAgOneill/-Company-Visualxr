@@ -2,10 +2,10 @@
 <b>It is a Web-based tool which helps Store/Restaurants to audit the branches with less hastle and in a secure manner . 
 In this</b>,<b> Company-Visualxr</b>  i have developed a software which is helpful to generate & download the forms for audit with email & store doc features.
 This project contains 4 modules 
-<b>Admin</b>
-<b>Agents</b>
-<b>Client</b>
-<b>User</b>
+<b>Admin</b>,
+<b>Agents</b>,
+<b>Client</b>,
+<b>User</b>.
 
 So Earlier , before COVID-19 people didnt have problem travlling all over the world  from  city to city , state to state and country to country . Since this pandemic came in picture everyone got locked up in their home to fight the COVID-19 strain and to break this chain . But because of this so many places couldnt audit their stores , not able to see to if their other sub branches are following the same protocol Here I come in picture and solved the issue of auditing by giving loacal chance to earn and audit the store . with this tool stores can audit their premises and get successful result in a secure manner .
 
